@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chyhy0209&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chohy0209&fontSize=80)
 
 ![Static Badge](https://img.shields.io/badge/instagram-blue?style=plastic&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fhanyeong_1112%2F)
 
